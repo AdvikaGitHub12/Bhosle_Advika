@@ -571,12 +571,12 @@ Example: "This project runs offline by default." or "Needs an internet connectio
 
 ## Submission Checklist 
 - [x] Cloned the Repository 
-- [ ] Added my details (Name, PRN, Year, Branch)  
-- [ ] Wrote Problem Statement  
-- [ ] Listed Features & Tech Stack  
-- [ ] Added clear Run Instructions  
-- [ ] Provided Demo Output (screenshot or text)  
-- [ ] Listed AI tools used (or None)  
-- [ ] Explained Future Improvements  
+- [x] Added my details (Name, PRN, Year, Branch)  
+- [x] Wrote Problem Statement  
+- [x] Listed Features & Tech Stack  
+- [x] Added clear Run Instructions  
+- [x] Provided Demo Output (screenshot or text)  
+- [x] Listed AI tools used (or None)  
+- [x] Explained Future Improvements  
 - [ ] Project runs offline
 
